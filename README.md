@@ -2,6 +2,18 @@
 
 Welcome to my personal roadmap as I progress through the path of becoming an expert Backend Engineer. This repository serves as a public log of my learnings, certifications, projects, and goals — updated regularly.
 
+## 📚 Table of Contents
+- [Current Focus](#current-focus)
+- [Learning Milestones](#learning-milestones)
+- [Certifications](#certifications)
+- [Projects](#projects)
+- [Weekly Dev Journal](#weekly-dev-journal)
+- [Tools & Stack](#tools--stack)
+- [Open Source Contributions](#open-source-contributions)
+- [Blog & Writing](#blog--writing)
+- [Connect With Me](#connect-with-me)
+
+
 ---
 
 ## 🎯 Current Focus
