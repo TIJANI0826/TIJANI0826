@@ -136,7 +136,7 @@ I log progress every week in [Journals/](./journals):
 
 - 🧑‍💼 [LinkedIn](https://linkedin.com/in/tijaniibrahim)
 - 💻 [GitHub](https://github.com/TIJANI0826)
-- 📝 [Blog](https://dev.to/yourusername)
+- 📝 [Blog](https://dev.to/tijani0826)
 
 ---
 
