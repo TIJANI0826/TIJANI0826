@@ -3,7 +3,7 @@
 Welcome to my personal roadmap as I progress through the path of becoming an expert Backend Engineer. This repository serves as a public log of my learnings, certifications, projects, and goals — updated regularly.
 
 ## 📚 Table of Contents
-- [Current Focus](#https://github.com/TIJANI0826#-current-focus)
+- [Current Focus](https://github.com/TIJANI082#-current-focus)
 - [Learning Milestones](#learning-milestones)
 - [Certifications](#certifications)
 - [Projects](#projects)
