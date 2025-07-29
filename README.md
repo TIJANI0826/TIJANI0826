@@ -4,14 +4,14 @@ Welcome to my personal roadmap as I progress through the path of becoming an exp
 
 ## 📚 Table of Contents
 - [Current Focus](#-current-focus)
-- [Learning Milestones](#learning-milestones)
-- [Certifications](#certifications)
-- [Projects](#projects)
-- [Weekly Dev Journal](#weekly-dev-journal)
-- [Tools & Stack](#tools--stack)
-- [Open Source Contributions](#open-source-contributions)
-- [Blog & Writing](#blog--writing)
-- [Connect With Me](#connect-with-me)
+- [Learning Milestones](#-learning-milestones)
+- [Certifications](#-certifications)
+- [Projects](#-projects)
+- [Weekly Dev Journal](#-weekly-dev-journal)
+- [Tools & Stack](#-tools--stack)
+- [Open Source Contributions](#-open-source-contributions)
+- [Blog & Writing](#-blog--writing)
+- [Connect With Me](#-connect-with-me)
 
 
 ---
